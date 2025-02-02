@@ -12,6 +12,8 @@ function App() {
           <p><strong>USN:</strong>  USN 456789</p>
             <p><strong>Name:</strong>  Name rakshi</p> 
           <p><strong>USN:</strong>  USN 345678</p>
+          <p><strong>Name:</strong>  Name Adithiyaa</p> 
+          <p><strong>USN:</strong>  USN 01292112</p>
         </div>
       </header>
     </div>
